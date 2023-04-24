@@ -1,6 +1,6 @@
-h1 {
+/*h1 {
     margin-left:500px;
-}
-.wrapper{
+}*/
+main{
     transform: skew(356deg,348deg);
 }
